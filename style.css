@@ -23,3 +23,9 @@ text-align: center
 .barre{
 	background-color: white;
 }
+
+.button
+{
+	margin-top: 30px;
+	font-weight: bold;
+}
