@@ -1,0 +1,21 @@
+.main
+{
+max-width: 480px;
+margin:10% auto;
+text-align: center;
+
+}
+
+.main .logo
+{
+max-width: 272px;
+margin:0 auto;
+
+}
+
+.search
+{
+display: block;
+text-align: center
+
+}
